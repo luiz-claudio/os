@@ -19,6 +19,7 @@
 9. O cadastro dos clientes de cada loja será formado por nome, cpf, email, telefone fixo, e celular. O identificador do cliente será o número do seu celular.
  
 10. Quando a OS’s for dada baixa, o sistema emitirá uma mensagem para o celular do cliente informando que o serviço foi concluído.
+11. ......
   
 
 
