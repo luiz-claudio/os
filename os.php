@@ -14,6 +14,7 @@ private $garantia;
 private $defeito;
 private $laudotecnico;//
 private $prazo;//
+private $quant;
 
 function setIdos($idos){
   $this->idos=$idos;
@@ -100,6 +101,10 @@ function getLaudoTecnico(){
 }
 function getPrazo(){
 return $this->prazo;
+}
+  
+function getQuant(){
+return $this->quant;
 }
 
 }
